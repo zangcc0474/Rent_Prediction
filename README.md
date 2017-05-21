@@ -1,1 +1,1 @@
-# Rent_Prediction
+# Rent Prediction
